@@ -1,0 +1,180 @@
+
+.sign-in-page-logo{
+    width: 190px;
+    height: 140px;
+    margin: auto;
+    margin-top: -30px;
+}
+.signin-Amazon_logo{
+    width: 100%;
+    height: 150px;
+    cursor: pointer;
+}
+.sign-in-page{
+    width: 350px;
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    margin: auto;
+    padding: 20px;
+    margin-top: -14px;
+    border-radius: 5px;
+}
+.signin-box h1{
+    margin-top: -8px;
+}
+.signin-box label{
+    font-weight: bold;
+}
+#email{
+    width: 97%; 
+    padding: 8px 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.signin-box button{
+    padding: 8px 151px;
+    border-radius: 8px;
+    background-color: #FDD835;
+    border: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.signin-box p{
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+.signin-box span{
+    color: #0066c0;
+    cursor: pointer;
+}
+.signin-box span:hover{
+    color: #be0b3b;
+    text-decoration: underline;
+}
+.signin-box a{
+    text-decoration: none;
+    color: #0066c0;
+    font-size: 14px;
+}
+.signin-box a:hover{
+    color: #be0b3b;
+    text-decoration: underline;
+}
+.signin-box i{
+    text-decoration: none;
+    font-size: 10px;
+    color: gray;
+    margin-right: 8px;
+    
+}
+.signin-hrz-line{
+    width: 350px;
+    color: #000;
+    background-color: rgb(190, 190, 190);
+    height: 0.5px;
+    position: absolute;
+    top: 440px;
+    margin: auto;
+}
+
+.signin-buy-box{
+    margin-top: 60px;
+}
+
+.signin-buy-box p{
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.signin-buy-box a{
+    text-decoration: none;
+    color: #0066c0;
+}
+.signin-buy-box a:hover{
+    color: #be0b3b;
+    text-decoration: underline;
+}
+
+.signin-creat-account{
+    width: 390px;
+    height: 200px;
+    margin: auto;
+    margin-top: 30px;
+} 
+.new-acount{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+.new-acount p:nth-child(2){
+    font-size: 13px;
+    color: rgb(147, 146, 146)
+}
+.newAcc-hrz-line1{
+    width: 130px;
+    color: #000;
+    background-color: rgb(190, 190, 190);
+    height: 0.5px;
+    position: absolute;
+    /* top: 600px; */
+    right: 51pc;
+
+}
+.newAcc-hrz-line2{
+    width: 130px;
+    color: #000;
+    background-color: rgb(190, 190, 190);
+    height: 0.5px;
+    position: absolute;
+    left: 51pc;
+    /* top: 600px;
+    padding-right: -10px; */
+}
+
+.new-acc-btn{
+    padding: 6px 100px;
+    border-radius: 8px;
+    border: none;
+    background-color: white;
+    margin-left: 10px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    font-size: 12.5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.bottom-shadow-line{
+    width: 700px;
+    height: 2px;
+    position: absolute;
+    top: 42pc;
+    right: 25pc;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+
+.page-bottom{
+    margin: auto;
+    width: 310px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: -70px;
+}
+.page-bottom a{
+    text-decoration: none;
+    color: #0066c0;
+    font-size: 12.5px;
+}
+
+.copy{
+    height: 90px;
+    padding: 40px;
+    text-align: center;
+    color: #000;
+    font-size: 12.5px;
+    margin-top: -30px;
+}
+/* .line{
+    height: 0.5px;
+    width: 100%;
+    background-color: rgb(172, 172, 172);
+} */
